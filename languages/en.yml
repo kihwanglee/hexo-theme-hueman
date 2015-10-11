@@ -6,6 +6,8 @@ index:
   category: 'category : '
   uncategorized: 'uncategorized'
   tag: 'tag : '
+  publications: 'Publications'
+  talks: 'Talks'
 nav:
   current_page:
     other: 'Page %d '
